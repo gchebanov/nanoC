@@ -1,4 +1,4 @@
 nanoC
 =====
 
-short compiler for nanoc
+very short compiler for nanoc
